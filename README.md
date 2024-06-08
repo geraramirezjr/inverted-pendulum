@@ -22,7 +22,7 @@ System consists of a pendulum and encoder assembly driven via a linear belt gant
 
 ### Closed Loop Control
 
-The main software loop running on the microcontroller consists of a double PID control scheme for pendulum angle and cart position. The previous error and current error for each position are used to perform numerical differentiation and numerical integration (midpoint integration). A combined error is then used to determine motor control. PID gains were heuristically determined with methods roughly simialr to Ziegler–Nichols.
+The main software loop running on the microcontroller consists of a double PID control scheme for pendulum angle and cart position. The previous error and current error for each position are used to perform numerical differentiation and numerical integration (midpoint integration). A combined error is then used to determine motor control. PID gains were heuristically determined with methods roughly similar to Ziegler–Nichols.
 
 <p align="center">
     <img src="images/double_PID_closed_loop_control.png" width="400px">
