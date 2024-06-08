@@ -2,8 +2,6 @@
 Project repository for a cart-pole inverted pendulum system. Designed hardware and software to support feedback control of belt gantry, DC motor, encoders, motor driver, and microcontroller. Developed a self swing up startup sequence and a double PID control algorithm with no external libraries that can successfully balance an inverted pendulum for 30+ seconds.
 
 ![hero](images/swingup_and_balance.gif)
-<br />
-<br />
 Video files: [Swingup and Balance](images/swingup_and_balance.MOV), [Balance](images/balance.MOV)
 
 ## System Overview
