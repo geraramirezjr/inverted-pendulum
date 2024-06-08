@@ -1,5 +1,5 @@
 # Inverted Pendulum
-Project repository for a cart-pole inverted pendulum system. Designed hardware and software to support feedback control of belt gantry, DC motor, encoders, motor driver, and microcontroller. Developed a self swing up startup sequence and a double PID control algorithm with no external libraries that can successfully balance an inverted pendulum for 30+ seconds.
+Project repository for a cart-pole inverted pendulum system. Designed hardware and software to support feedback control of belt gantry, DC motor, encoders, motor driver, and microcontroller. Developed a self swing up startup sequence and a double PID control algorithm with no external libraries that can successfully balance an inverted pendulum for 30+ seconds. **Full videos: [Swingup and Balance](images/swingup_and_balance.MOV), [Balance](images/balance.MOV)**
 
 ![hero](images/swingup_and_balance.gif)
 
@@ -43,3 +43,20 @@ An initial swing up program is used to bring pendulum from dead hang to an inver
 
 ### Balancing
 ![hero](images/balance.gif)
+
+## Misc. Images
+
+Motor soldering
+<p> <img src="images/motor_soldering.png" width="400px"> </p>
+<br />
+
+Limit switch wiring EMI shielding
+<p> <img src="images/limit_switch_wiring_emi_shielding.png" width="400px"> </p>
+<br />
+
+Motor winding overcurrent damage
+<p> <img src="images/motor_winding_overcurrent_closeup.png" width="400px"> </p>
+<br />
+
+Limit switch bracket
+<p> <img src="images/limit_switch_bracket_installed.png" width="400px"> </p>
