@@ -55,7 +55,7 @@ Limit switch wiring EMI shielding
 <p> <img src="images/limit_switch_wiring_emi_shielding.png" width="400px"> </p>
 <br />
 
-Motor winding overcurrent damage
+Motor winding overcurrent damage when system railed during testing. Led to the development of limit switch safety features to prevent this failure mode.
 <p> <img src="images/motor_winding_overcurrent_closeup.png" width="400px"> </p>
 <br />
 
