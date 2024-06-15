@@ -51,7 +51,7 @@ Motor soldering
 <p> <img src="images/motor_soldering.png" width="400px"> </p>
 <br />
 
-Limit switch wiring EMI shielding
+Limit switch wiring EMI shielding. Had an issue with intermittent system shutdowns and root caused the problem to motor EMI noise causing interrupts to switch. Wire shielding resolved issue.
 <p> <img src="images/limit_switch_wiring_emi_shielding.png" width="400px"> </p>
 <br />
 
